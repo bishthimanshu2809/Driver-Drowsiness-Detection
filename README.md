@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Driver Drowsiness Detection System
 
 An AI-powered real-time system that detects driver drowsiness using computer vision and deep learning. It monitors eye states through a webcam and triggers alerts when signs of fatigue are detected, helping reduce road accidents caused by driver sleepiness.
@@ -112,3 +113,7 @@ Real-Time Webcam Detection
 - Model evaluation  
 - Saving trained model  
 - Real-time inference using webcam  
+=======
+# Driver-Drowsiness-Detection
+.
+>>>>>>> b05ad1625080f8a395fa44a8d75fc7eb0ac75e65
